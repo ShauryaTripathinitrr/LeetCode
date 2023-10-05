@@ -6,16 +6,8 @@ public:
         int n=nums.size();
         map<int,int>mp;
         for(int i=0;i<n;i++)
-        {
-            mp[nums[i]]++;
-        }
+        {mp[nums[i]]++;}
         for(auto i:mp)
-        {
-            if(i.second>k)
-            {
-                ans.push_back(i.first);
-            }
-        }
-        return ans;
+        {if(i.second>k){ans.push_back(i.first);}}return ans;
     }
 };
