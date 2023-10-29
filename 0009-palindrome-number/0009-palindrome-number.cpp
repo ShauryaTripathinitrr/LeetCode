@@ -1,6 +1,16 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        long long n=x;long long k=0;if(x<0)return false;
- while(n!=0){long long dig=n%10;k=k*10+dig;n=n/10;}return (k==x); }
+        long long rev=0;
+        long long num=x;
+        while(x>0){
+            int r=x%10;
+            x=x/10;
+            rev=rev*10+r;
+        }
+        if(rev==num){
+            return true;
+        }
+        return false;
+    }
 };
