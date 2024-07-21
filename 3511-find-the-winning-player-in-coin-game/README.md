@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-winning-player-in-coin-game">3511. Find the Winning Player in Coin Game</a></h2><h3>Easy</h3><hr><p>You are given two <strong>positive</strong> integers <code>x</code> and <code>y</code>, denoting the number of coins with values 75 and 10 <em>respectively</em>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-winning-player-in-coin-game">Find the Winning Player in Coin Game</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given two <strong>positive</strong> integers <code>x</code> and <code>y</code>, denoting the number of coins with values 75 and 10 <em>respectively</em>.</p>
 
 <p>Alice and Bob are playing a game. Each turn, starting with <strong>Alice</strong>, the player must pick up coins with a <strong>total</strong> value 115. If the player is unable to do so, they <strong>lose</strong> the game.</p>
 
