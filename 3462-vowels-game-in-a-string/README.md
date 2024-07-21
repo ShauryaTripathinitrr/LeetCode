@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/vowels-game-in-a-string">3462. Vowels Game in a String</a></h2><h3>Medium</h3><hr><p>Alice and Bob are playing a game on a string.</p>
+<h2><a href="https://leetcode.com/problems/vowels-game-in-a-string">Vowels Game in a String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Alice and Bob are playing a game on a string.</p>
 
 <p>You are given a string <code>s</code>, Alice and Bob will take turns playing the following game where Alice starts <strong>first</strong>:</p>
 
