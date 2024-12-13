@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 ## Bit Manipulation
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 ## Segment Tree
 |  |
@@ -55,4 +57,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Greedy
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
