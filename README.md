@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3196-apply-operations-to-maximize-frequency-score](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 ## Bit Manipulation
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3196-apply-operations-to-maximize-frequency-score](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 ## Segment Tree
 |  |
@@ -65,12 +67,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3196-apply-operations-to-maximize-frequency-score](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 ## Sorting
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3196-apply-operations-to-maximize-frequency-score](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3196-apply-operations-to-maximize-frequency-score](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 <!---LeetCode Topics End-->
