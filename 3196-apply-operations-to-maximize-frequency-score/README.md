@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/apply-operations-to-maximize-frequency-score">3196. Apply Operations to Maximize Frequency Score</a></h2><h3>Hard</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/apply-operations-to-maximize-frequency-score">Apply Operations to Maximize Frequency Score</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and an integer <code>k</code>.</p>
 
 <p>You can perform the following operation on the array <strong>at most</strong> <code>k</code> times:</p>
 
