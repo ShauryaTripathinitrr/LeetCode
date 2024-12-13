@@ -1,21 +1,21 @@
 class Solution
 {
 public:
-    long long sum(int i, int j, const vector<long long> &preSum)
+    long long sum(int i, int j, vector<long long> &preSum)
     {
         if (i == 0)
             return preSum[j];
         return preSum[j] - preSum[i - 1];
     }
 
-    long long get(int i, int j, int mid, const vector<int> &nums, const vector<long long> &preSum)
+    long long get(int i, int j, int mid, vector<int> &nums, vector<long long> &preSum)
     {
         long long c1 = nums[mid] * 1LL * (mid - i + 1) - sum(i, mid, preSum);
         long long c2 = sum(mid, j, preSum) - (nums[mid] * 1LL * (j - mid + 1));
         return c1 + c2;
     }
 
-    bool check(int mid, int n, long long k, const vector<int> &nums, const vector<long long> &preSum)
+    bool check(int mid, int n, long long k, vector<int> &nums, vector<long long> &preSum)
     {
         int i = 0, j = mid - 1;
         long long ans = 1e18;
