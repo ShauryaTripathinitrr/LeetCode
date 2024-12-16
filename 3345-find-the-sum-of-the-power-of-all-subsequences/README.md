@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences">3345. Find the Sum of the Power of All Subsequences</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code> and a <strong>positive</strong> integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences">Find the Sum of the Power of All Subsequences</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given an integer array <code>nums</code> of length <code>n</code> and a <strong>positive</strong> integer <code>k</code>.</p>
 
 <p>The <strong>power</strong> of an array of integers is defined as the number of <span data-keyword="subsequence-array">subsequences</span> with their sum <strong>equal</strong> to <code>k</code>.</p>
 
