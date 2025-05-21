@@ -115,7 +115,7 @@ public:
             int num = stoi(x.first);
 
             if(isPrime(num) && x.first.length() > 1){
-                cout << num << " " << x.second << endl;
+                //cout << num << " " << x.second << endl;
                 if(x.second >= maxfreq){
                     if(maxfreq < x.second){
                         ans = num;
@@ -128,7 +128,7 @@ public:
                 }
             }
         }
-        cout << maxfreq << endl;
+       // cout << maxfreq << endl;
         return ans;
     }
 };
