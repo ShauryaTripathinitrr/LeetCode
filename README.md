@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0047-permutations-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0047-permutations-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 ## Prefix Sum
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3314-most-frequent-prime](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3314-most-frequent-prime) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
