@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Design
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
