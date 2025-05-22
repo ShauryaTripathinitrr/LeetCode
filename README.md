@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0047-permutations-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Prefix Sum
 |  |
 | ------- |
