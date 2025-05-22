@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [3314-most-frequent-prime](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3314-most-frequent-prime) |
 ## Counting
 |  |
