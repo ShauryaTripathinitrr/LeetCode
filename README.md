@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-most-frequent-prime](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3314-most-frequent-prime) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 ## Matrix
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Sliding Window
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0047-permutations-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Prefix Sum
 |  |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 ## Math
 |  |
@@ -142,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
