@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2868-continuous-subarrays](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3314-most-frequent-prime](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3314-most-frequent-prime) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3314-most-frequent-prime](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3314-most-frequent-prime) |
 ## Binary Search
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 ## Math
 |  |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/2868-continuous-subarrays) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 <!---LeetCode Topics End-->
