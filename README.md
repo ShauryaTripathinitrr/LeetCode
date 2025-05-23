@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0038-count-and-say) |
 | [0208-implement-trie-prefix-tree](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Design
