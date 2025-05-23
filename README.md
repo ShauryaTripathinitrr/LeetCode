@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2868-continuous-subarrays](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3314-most-frequent-prime](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3314-most-frequent-prime) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2868-continuous-subarrays](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 ## Sorting
 |  |
@@ -117,4 +119,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0047-permutations-ii) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/2868-continuous-subarrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
