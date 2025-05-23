@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid">3092. Minimum Moves to Spread Stones Over Grid</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> 2D integer matrix <code>grid</code> of size <code>3 * 3</code>, representing the number of stones in each cell. The grid contains exactly <code>9</code> stones, and there can be <strong>multiple</strong> stones in a single cell.</p>
+<h2><a href="https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid">Minimum Moves to Spread Stones Over Grid</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>0-indexed</strong> 2D integer matrix <code>grid</code> of size <code>3 * 3</code>, representing the number of stones in each cell. The grid contains exactly <code>9</code> stones, and there can be <strong>multiple</strong> stones in a single cell.</p>
 
 <p>In one move, you can move a single stone from its current cell to any other cell if the two cells share a side.</p>
 
