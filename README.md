@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0047-permutations-ii) |
 | [0137-single-number-ii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0260-single-number-iii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0260-single-number-iii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
