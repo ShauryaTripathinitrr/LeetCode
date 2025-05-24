@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0260-single-number-iii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
