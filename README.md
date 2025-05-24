@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0038-count-and-say) |
 | [0208-implement-trie-prefix-tree](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [3194-find-words-containing-character](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Design
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2868-continuous-subarrays](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3194-find-words-containing-character](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-most-frequent-prime](https://github.com/ShauryaTripathinitrr/LeetCode/tree/master/3314-most-frequent-prime) |
