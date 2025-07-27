@@ -9,7 +9,7 @@ public:
         int a = 0 , b = n - 2 , c = n - 1;
 
         while(a < b){
-            cout << a << " " << b << " " << c << endl;
+            //cout << a << " " << b << " " << c << endl;
             sum += nums[b];
             c -= 2;
             b -= 2;
